@@ -1,0 +1,26 @@
+[
+    {
+        "marca": "HP",
+        "ram": 16,
+        "disco": 512,
+        "serial": "ABC123"
+    },
+    {
+        "marca": "Lenovo",
+        "ram": 8,
+        "disco": 256,
+        "serial": "XYZ999"
+    },
+    {
+        "marca": "ASUS",
+        "ram": 64,
+        "disco": 1064,
+        "serial": "AZX656ERF5"
+    },
+    {
+        "marca": "dell",
+        "ram": 24,
+        "disco": 512,
+        "serial": "ewr234"
+    }
+]
